@@ -1,0 +1,33 @@
+Sex,Phrase,Level,Actual Toxic/Not
+female,"""There is a reason the majority of success in this industry only incudes males""",0.2,TOXIC
+female,"“She was asking for it, she's such a slut”",0.8,TOXIC
+female,Feminism is just a bunch of angry women who can't accept their place,0.51,TOXIC
+female,“She was ugly and fat anyway”,0.7,TOXIC
+female,"I told her to just go have kids, men are smarter",0.27,TOXIC
+female,Women are property,0.56,TOXIC
+female,"Women's sports are terrible, they don't deserve equal pay",0.57,TOXIC
+female,Women are too emotional and irrational,0.52,TOXIC
+male,“Men who show emotions are weak”,0.33,TOXIC
+male,All men are illiterate,0.51,TOXIC
+male,“Men are animals and cant control their urges,0.57,TOXIC
+male,"He is such a deadbeat, he cant make any money",0.46,TOXIC
+male,Broke men are disgusting,0.67,TOXIC
+male,All men are liars and cheaters,0.64,TOXIC
+male,Men are so emotionally unintelligent,0.52,TOXIC
+male,Men's egos are so fragile,0.15,TOXIC
+female,I applaud the hard work she put in for her promotion,0.012,NOT TOXIC
+female,She is extraordinarily intelligent,0.04,NOT TOXIC
+female,The strength it takes to be a working mother is insane,0.3,NOT TOXIC
+female,The love and care from a woman is everything,0.09,NOT TOXIC
+female,"Celebrate the achievements of women, for they continue to inspire and lead the way forward",0.04,NOT TOXIC
+female,"Shoutout to all the amazing women, lets continue to break the glass ceiling”",0.2,NOT TOXIC
+female,She looked beautiful today,0.05,NOT TOXIC
+female,let's appreciate the incredible contributions of women in all walks of life,0.03,NOT TOXIC
+male,He is very successful and a hard worker,0.02,NOT TOXIC
+male,Mens mental health matters,0.06,NOT TOXIC
+male,"""Men are capable of empathy, kindness, and strong friendships",0.03,NOT TOXIC
+male,He is such a great father and husband,0.02,NOT TOXIC
+male,He's a genuine and down-to-earth guy who makes everyone feel welcome,0.04,NOT TOXIC
+male,Those guys are very passionate sports fans,0.02,NOT TOXIC
+male,He had a really hard day at work,0.02,NOT TOXIC
+male,I think he is having a really hard time and could use some help from people who care about him,0.03,NOT TOXIC
